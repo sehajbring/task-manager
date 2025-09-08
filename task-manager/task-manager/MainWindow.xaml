@@ -13,8 +13,8 @@
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
             <Button Content="File" Width="75" Height="30" Margin="10,0,10,0"/>
-            <Button Content="New Task" Width="75" Height="30" Margin="10,0,10,0"/>
-            <Label Content="{Binding CurrentDate}" VerticalAlignment="Center" FontWeight="Bold"/>
+            <Button Content="New Task" Width="75" Height="30" Margin="10,0,10,0" Command="{Binding AddTaskCommand}"/>
+            <Label Content="{Binding CurrentDate, StringFormat= 'Current Date: {0}'}" VerticalAlignment="Center" FontWeight="Bold"/>
         </StackPanel>
 
         <Grid Grid.Row="1">
@@ -32,16 +32,17 @@
                 </DataGrid.Columns>
             </DataGrid>
 
-            <StackPanel Grid.Column="1">
+            <StackPanel Grid.Column="1" Margin="10,0,10,0">
                 <Label Content="Name"/>
-                <TextBox Text="{Binding SelectedItem.Name, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBox Text="{Binding SelectedTask.Name, UpdateSourceTrigger=PropertyChanged}"/>
                 <Label Content="Due Date"/>
-                <TextBox Text="{Binding SelectedItem.DueDate, UpdateSourceTrigger=PropertyChanged}"/>
+                <DatePicker x:Name="DueDateSelector" SelectedDateFormat="Short" SelectedDate="{Binding SelectedTask.DueDate}"/>
                 <Label Content="Description"/>
-                <TextBox Text="{Binding SelectedItem.Description, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBox Text="{Binding SelectedTask.Description, UpdateSourceTrigger=PropertyChanged}" Height="170"/>
+                <CheckBox Content="Completed" Command="{Binding SelectedTask.Completed, UpdateSourceTrigger=PropertyChanged}"/>
             </StackPanel>
             <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom">
-                <Button Content="Canel" Width="75" Height="30" Margin="20,0,20,0"/>
+                <Button Content="Delete" Width="75" Height="30" Margin="20,0,20,0" Command="{Binding DeleteTaskCommand}"/>
                 <Button Content="Save" Width="75" Height="30" Margin="20,0,20,0"/>
             </StackPanel>
         </Grid>

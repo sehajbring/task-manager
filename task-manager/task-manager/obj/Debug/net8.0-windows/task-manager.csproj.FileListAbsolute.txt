@@ -19,3 +19,5 @@ C:\Users\Sehajveer\source\repos\task-manager\task-manager\task-manager\obj\Debug
 C:\Users\Sehajveer\source\repos\task-manager\task-manager\task-manager\obj\Debug\net8.0-windows\task-manager.pdb
 C:\Users\Sehajveer\source\repos\task-manager\task-manager\task-manager\obj\Debug\net8.0-windows\task-manager.genruntimeconfig.cache
 C:\Users\Sehajveer\source\repos\task-manager\task-manager\task-manager\obj\Debug\net8.0-windows\ref\task-manager.dll
+C:\Users\Sehajveer\source\repos\task-manager\task-manager\task-manager\obj\Debug\net8.0-windows\View\NewTaskWindow.g.cs
+C:\Users\Sehajveer\source\repos\task-manager\task-manager\task-manager\obj\Debug\net8.0-windows\View\NewTaskWindow.baml
