@@ -19,10 +19,11 @@ A simple WPF application for managing tasks. This project allows users to view, 
 ## Getting Started
 
 1. **Clone the repository:**
+
    git clone https://github.com/sehajbring/task-manager.git
 
-2. **Open the solution in Visual Studio 2022.**
-3. **Build and run the project.**
+3. **Open the solution in Visual Studio 2022.**
+4. **Build and run the project.**
 
 ## Usage
 
