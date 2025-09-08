@@ -1,5 +1,10 @@
 ﻿using Microsoft.VisualBasic;
 
+/***
+ *  Struct for a task
+ * 
+ */
+
 namespace task_manager.Model
 {
     public class Task
