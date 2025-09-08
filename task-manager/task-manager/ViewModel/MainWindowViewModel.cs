@@ -1,14 +1,23 @@
 ﻿using System.Collections.ObjectModel;
-using task_manager.MVVM;
+using System.Windows.Controls;
+using System.Windows.Media;
 using task_manager.Model;
-using Task = task_manager.Model.Task;
+using task_manager.MVVM;
 using task_manager.View;
+using Task = task_manager.Model.Task;
 
 namespace TaskManager.ViewModel
 {
+
+    /***
+     * This class is for the window that appears when starting the program.
+     * This holds all the logic for how to handle data on the window as well as how to manage changes made to the 
+     * appropriate fields.
+     * This class was deigned with the MVVM model where it seperates business logic from UI logic.
+     */
     internal class MainWindowViewModel : ViewModelBase
     {
-
+        // Check for if any buttons are clicked on the main window.
         public RelayCommand AddTaskCommand => new RelayCommand(execute => AddTask());
         public RelayCommand SaveNewTaskCommand => new RelayCommand(execute => SaveTask());
         public RelayCommand DeleteTaskCommand => new RelayCommand(execute => DeleteTask());
@@ -16,15 +25,19 @@ namespace TaskManager.ViewModel
         private void SaveTask()
         {
         }
+        public string SatusColor { get; set; }
 
         public ObservableCollection<Task> Tasks { get; set; }
         private string displayCurrentDate;
         private Task selectedTask;
+
         public MainWindowViewModel() {
             TaskSupervisor taskSupervisor = new TaskSupervisor();
             Tasks = taskSupervisor.GetTasks();
             displayCurrentDate = DisplayCurrentDate();
+            
         }
+        
 
         public Task SelectedTask {  
             get { return selectedTask; } 

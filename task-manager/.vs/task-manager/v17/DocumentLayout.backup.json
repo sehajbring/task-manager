@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\viewmodel\\newtaskwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\viewmodel\\newtaskwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\view\\newtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\view\\newtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\model\\tasksupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\model\\tasksupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\view\\newtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\view\\newtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|c:\\users\\sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF4AB64-837F-483C-9EB2-98F912AFE3C1}|task-manager\\task-manager.csproj|solutionrelative:task-manager\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,23 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "task-manager\\ViewModel\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeToolTip": "task-manager\\ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAuwFAAAAApAAAAAAAAAA==",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "task-manager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MainWindow.xaml",
+              "RelativeToolTip": "task-manager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-08T13:30:42.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "task-manager\\Tests\\Class1.cs",
+              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\Tests\\Class1.cs",
+              "RelativeToolTip": "task-manager\\Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T10:28:04.465Z",
+              "WhenOpened": "2025-09-08T13:25:11.076Z",
               "EditorCaption": ""
             },
             {
@@ -81,123 +61,22 @@
               "RelativeDocumentMoniker": "task-manager\\ViewModel\\NewTaskWindowViewModel.cs",
               "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\ViewModel\\NewTaskWindowViewModel.cs",
               "RelativeToolTip": "task-manager\\ViewModel\\NewTaskWindowViewModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwB8AAAB/AAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T10:27:26.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NewTaskWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\View\\NewTaskWindow.xaml",
-              "RelativeDocumentMoniker": "task-manager\\View\\NewTaskWindow.xaml",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\View\\NewTaskWindow.xaml",
-              "RelativeToolTip": "task-manager\\View\\NewTaskWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-08T10:17:12.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\App.xaml",
-              "RelativeDocumentMoniker": "task-manager\\App.xaml",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\App.xaml",
-              "RelativeToolTip": "task-manager\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-08T09:39:24.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskSupervisor.cs",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\Model\\TaskSupervisor.cs",
-              "RelativeDocumentMoniker": "task-manager\\Model\\TaskSupervisor.cs",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\Model\\TaskSupervisor.cs",
-              "RelativeToolTip": "task-manager\\Model\\TaskSupervisor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T09:20:28.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewTaskWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\View\\NewTaskWindow.xaml.cs",
-              "RelativeDocumentMoniker": "task-manager\\View\\NewTaskWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\View\\NewTaskWindow.xaml.cs",
-              "RelativeToolTip": "task-manager\\View\\NewTaskWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T07:55:19.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MVVM\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "task-manager\\MVVM\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MVVM\\RelayCommand.cs",
-              "RelativeToolTip": "task-manager\\MVVM\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T07:46:01.144Z",
+              "WhenOpened": "2025-09-08T13:19:16.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\Model\\Task.cs",
-              "RelativeDocumentMoniker": "task-manager\\Model\\Task.cs",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\Model\\Task.cs",
-              "RelativeToolTip": "task-manager\\Model\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "task-manager\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "task-manager\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T02:37:03.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MVVM\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "task-manager\\MVVM\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MVVM\\ViewModelBase.cs",
-              "RelativeToolTip": "task-manager\\MVVM\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T02:32:38.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "task-manager\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MainWindow.xaml.cs",
-              "RelativeToolTip": "task-manager\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T01:07:39.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "task-manager\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Sehajveer\\source\\repos\\task-manager\\task-manager\\task-manager\\MainWindow.xaml",
-              "RelativeToolTip": "task-manager\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-08T04:19:48.655Z",
+              "WhenOpened": "2025-09-08T10:28:04.465Z",
               "EditorCaption": ""
             }
           ]
