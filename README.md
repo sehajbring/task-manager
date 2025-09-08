@@ -40,10 +40,3 @@ A simple WPF application for managing tasks. This project allows users to view, 
 - `ViewModel/MainWindowViewModel.cs` - Main window logic and commands.
 - `MVVM/RelayCommand.cs` - Command implementation for MVVM.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-_This README was generated based on the current functionality of the program._
